@@ -1,14 +1,3 @@
-// PROJECT EXERCISE 4 (EXTENSION)
-// Add another select to your form so that users can rate each beer from 0 to 5. 
-// Append the new information to the page.
-
-
-// PROJECT EXERCISE 5 (EXTENSION)
-// Add another button to your page that will sort the beers on the page by rating when clicked. 
-// If it gets clicked again, reverse the order (if they were sorted in ascending order, 
-// sort in descending and vice-versa).
-
-
 var beers = []
 var ascending = 1;
 
